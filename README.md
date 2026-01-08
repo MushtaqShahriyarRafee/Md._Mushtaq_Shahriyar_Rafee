@@ -1,4 +1,3 @@
-# Md._Mushtaq_Shahriyar_Rafee
 # Md. Mushtaq Shahriyar Rafee
 
 **Assistant Professor & Head (In-Charge), Department of Data Science**
